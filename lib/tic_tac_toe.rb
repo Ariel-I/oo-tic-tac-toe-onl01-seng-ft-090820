@@ -97,7 +97,7 @@ class TicTacToe
     while over? = false 
     turn 
   end 
-  if 
+  if won? = 
   end 
 
     
