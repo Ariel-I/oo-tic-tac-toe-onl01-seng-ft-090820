@@ -68,7 +68,7 @@ class TicTacToe
   
   
   def full?
-    @board.all.
+    @board.all{ |occupied?| occupied
     
   end 
   
