@@ -99,7 +99,9 @@ class TicTacToe
   end 
   if won? 
     puts "safsdf"
-    elsif
+    elsif draw?
+    puts "dsadfsdf"
+  end 
   end 
 
     
