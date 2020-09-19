@@ -14,8 +14,8 @@ class TicTacToe
     puts " #{@board[6]} | #{@board[7]} | #{@board[8]} "
   end
 
-  def input_to_index
-    @board.count { |token| token == "x" || token == "o"}
+  def input_to_index(input="")
+    
   end 
   
   
