@@ -97,7 +97,9 @@ class TicTacToe
     while over? = false 
     turn 
   end 
-  if won? = 
+  if won? 
+    puts "safsdf"
+    elsif
   end 
 
     
