@@ -98,7 +98,7 @@ class TicTacToe
     turn 
   end 
   if won? 
-    puts "safsdf"
+    puts "Congratulation winner "
     elsif draw?
     puts "dsadfsdf"
   end 
