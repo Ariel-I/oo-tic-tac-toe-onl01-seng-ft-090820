@@ -56,7 +56,8 @@ class TicTacToe
   def winner 
   end 
     
-    
+  def play 
+  end 
 
     
   
