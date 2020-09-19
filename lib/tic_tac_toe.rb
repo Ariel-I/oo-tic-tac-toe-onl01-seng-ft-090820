@@ -18,6 +18,44 @@ class TicTacToe
     user_input.to_i - 1  
   end 
   
+  def move
+    
+  end 
+  
+  def position_taken?
+  end 
+  
+  def valid_move?
+  end 
+  
+  def turn_count
+  end 
+  
+  def current_player
+  end 
+  
+  def turn
+  end 
+  
+  def won?
+  end
+  
+  def full?
+  end 
+  
+  def draw?
+  end 
+  
+  def over?
+  end 
+  
+  def winner 
+  end 
+    
+    
+
+    
+  
   
   
 end 
