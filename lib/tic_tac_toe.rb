@@ -42,7 +42,7 @@ class TicTacToe
   
   def turn
     puts "Choose 1-9"
-    
+    input 
     
   end 
   
