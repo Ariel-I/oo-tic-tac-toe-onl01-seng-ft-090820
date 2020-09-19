@@ -27,9 +27,9 @@ class TicTacToe
     ((@board[index] == "X") || (@board[index] == "O"))
   end 
   
-  def valid_move?
+  def valid_move?(index)
     ((@board[index] == "X") || (@board[index] == "O"))
-    index.between? (0,8)
+    index.between?(0,8)
   end 
   
   def turn_count
